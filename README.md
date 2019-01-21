@@ -1,1 +1,1 @@
-# Iris-Flower-Classification
+# IrisFlowerClassification
